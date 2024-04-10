@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm Menelik Michael, a passionate programmer with 
 
 ## Skills
 
-- Programming Languages: Python, JavaScript, Java
+- Programming Languages: Python, JavaScript, GOLANG, JAVA
 - Web Development: HTML, CSS, React, Node.js
-- Database Management: PostgreSQL, MySQL
+- Database Management: PostgreSQL, MySQL, MongoDB
 - Version Control: Git, GitHub
 
 ## Projects
